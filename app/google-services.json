@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375354667505",
+    "project_id": "badminton-ac5f1",
+    "storage_bucket": "badminton-ac5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375354667505:android:ecb1aceec1b36adea15450",
+        "android_client_info": {
+          "package_name": "com.example.badminton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375354667505-fon74rlkj6ce1s7c4rvi6t5g8sa7mhed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.badminton",
+            "certificate_hash": "fc7a481c453827e0fba1fccebda7bc3811f34bf7"
+          }
+        },
+        {
+          "client_id": "375354667505-eq0358s8h522s6fkct20604883k4p5pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpvMfs2utBQPwnqdKgBvAPinuy3Pta00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375354667505-eq0358s8h522s6fkct20604883k4p5pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

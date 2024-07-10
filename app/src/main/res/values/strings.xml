@@ -1,0 +1,117 @@
+<resources>
+    <string name="default_web_client_id">375354667505-eq0358s8h522s6fkct20604883k4p5pc.apps.googleusercontent.com</string>
+    <string name="app_name">Badminton</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="about">About</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_dengan_google">Login dengan Google</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="dafter">Daftar</string>
+    <string name="register">Register</string>
+    <string name="nama">Nama</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="ujian">Ujian ini terdiri dari 15 soal dengan waktu 10 menit, Silahkan tekan tombol dibawah untuk memulai ujian</string>
+    <string name="mulai">Mulai</string>
+    <string name="unknown">Tidak Diketahui</string>
+    <string name="semua">Terkini</string>
+    <string name="title">Judul</string>
+    <string name="author">Author</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="type_prompt">prompt</string>
+    <string name="add_photo">add photo</string>
+    <string name="send_prompt">Send</string>
+    <string-array name="data_name">
+        <item>Fundamental</item>
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Quiz!</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Daur ulang sampah anorganik adalah salah satu cara paling efektif untuk mengurangi jumlah sampah yang menumpuk di tempat pembuangan akhir. Sampah anorganik seperti plastik, kaca, dan logam, yang sering kali memerlukan waktu ratusan tahun untuk terurai, dapat didaur ulang menjadi produk baru yang berguna. Proses ini tidak hanya mengurangi volume sampah, tetapi juga membantu mengurangi dampak negatif sampah terhadap lingkungan, seperti pencemaran tanah dan air. Dengan mengalihkan sampah dari tempat pembuangan akhir ke fasilitas daur ulang, kita berkontribusi pada penurunan risiko kesehatan bagi masyarakat sekitar.</item>
+        <item>Kesadaran masyarakat akan pentingnya daur ulang sangat berpengaruh dalam mengurangi sampah anorganik. Ketika masyarakat memahami dampak negatif dari sampah anorganik terhadap lingkungan, mereka cenderung lebih bertanggung jawab dalam mengelola sampah yang mereka hasilkan. Sampah anorganik seperti plastik, kaca, dan logam memiliki waktu penguraian yang sangat lama, sehingga penanganan yang tepat sangat diperlukan. Dengan meningkatkan kesadaran, masyarakat akan lebih termotivasi untuk mendaur ulang dan mengurangi penggunaan bahan-bahan anorganik sekali pakai.</item>
+        <item>Teknologi modern telah membawa perubahan besar dalam proses daur ulang sampah anorganik. Berbagai mesin canggih kini mampu memproses sampah plastik, logam, dan kaca dengan efisiensi tinggi, mengubah limbah menjadi bahan baku yang dapat digunakan kembali. Sebagai contoh, mesin penghancur dan pemilah plastik dapat memisahkan jenis plastik yang berbeda, kemudian mencairkannya untuk dijadikan butiran plastik baru yang siap diolah menjadi produk lain. Inovasi ini tidak hanya meningkatkan efisiensi proses daur ulang tetapi juga mengurangi biaya operasional.</item>
+        <item>Daur ulang sampah anorganik tidak hanya bermanfaat bagi lingkungan, tetapi juga memiliki nilai ekonomi yang signifikan. Industri daur ulang menciptakan lapangan kerja di berbagai sektor, mulai dari pengumpulan dan pemilahan sampah hingga proses daur ulang itu sendiri dan pemasaran produk hasil daur ulang. Dengan semakin banyaknya orang yang terlibat dalam rantai pasok daur ulang, ini memberikan kontribusi positif terhadap perekonomian lokal dan nasional.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/fundamental</item>
+        <item>@drawable/beginner</item>
+        <item>@drawable/intermediate</item>
+        <item>@drawable/exam</item>
+    </integer-array>
+
+    <string-array name="course_names">
+        <item>Grip (Pegangan Raket)</item>
+        <item>Basic Footwork (Langkah Dasar)</item>
+        <item>Forehand and Backhand Strokes (Pukulan Forehand dan Backhand)</item>
+        <item>Service (Servis)</item>
+        <item>Net Play (Permainan Net)</item>
+        <item>Clear Shot (Pukulan Clear)</item>
+        <item>Drop Shot</item>
+        <item>Smash</item>
+        <item>Drive</item>
+        <item>Defensive Skills (Kemampuan Bertahan)</item>
+        <item>Advanced Footwork (Langkah Lanjutan)</item>
+        <item>Net Kill</item>
+        <item>Jump Smash</item>
+        <item>Deception Shots (Pukulan Tipuan)</item>
+        <item>Advanced Serves (Servis Lanjutan)</item>
+    </string-array>
+
+    <string-array name="course_descriptions">
+        <item>Teknik dasar memegang raket adalah fondasi dari semua teknik bulu tangkis. Ada dua jenis pegangan utama: forehand grip dan backhand grip. Forehand grip digunakan untuk pukulan di sisi raket, sementara backhand grip untuk pukulan di sisi non-raket. Memegang raket dengan benar memastikan pemain memiliki kontrol penuh dan mampu menghasilkan kekuatan optimal saat melakukan pukulan.</item>
+        <item>Langkah dasar membantu pemain bergerak dengan cepat dan efisien di lapangan. Teknik footwork yang baik mencakup gerakan maju, mundur, dan lateral yang memungkinkan pemain mencapai shuttlecock dengan cepat dan dalam posisi yang baik untuk melakukan pukulan. Menguasai footwork juga mengurangi risiko cedera.</item>
+        <item>Pukulan forehand dan backhand adalah dua teknik dasar yang harus dikuasai oleh setiap pemain bulu tangkis. Pukulan forehand dilakukan dengan memutar badan dan mengayunkan raket dari sisi raket, sedangkan pukulan backhand dilakukan dengan mengayunkan raket dari sisi non-raket. Kedua pukulan ini memungkinkan pemain untuk menempatkan shuttlecock ke berbagai bagian lapangan lawan.</item>
+        <item>Servis adalah cara untuk memulai permainan dan sangat penting untuk mencetak poin. Terdapat dua jenis servis utama: servis pendek dan servis panjang. Servis pendek digunakan untuk membuat lawan sulit mengembalikan shuttlecock dengan pukulan keras, sedangkan servis panjang digunakan untuk mendorong lawan ke belakang lapangan.</item>
+        <item>Permainan net melibatkan pukulan-pukulan halus yang dilakukan dekat dengan net, seperti net shot dan net kill. Teknik ini penting untuk mengontrol permainan di area depan lapangan dan memaksa lawan untuk melakukan kesalahan.</item>
+        <item>Pukulan clear adalah pukulan tinggi dan jauh yang dilakukan untuk mengirim shuttlecock ke bagian belakang lapangan lawan. Pukulan ini berguna untuk mengatur tempo permainan dan memberikan waktu kepada pemain untuk kembali ke posisi siap.</item>
+        <item>Drop shot adalah pukulan halus yang dilakukan untuk menjatuhkan shuttlecock sedekat mungkin dengan net di sisi lawan. Teknik ini digunakan untuk mengecoh lawan dan memaksa mereka bergerak cepat ke depan lapangan, membuka ruang di belakang.</item>
+        <item>Smash adalah pukulan keras yang diarahkan ke bawah dengan tajam, digunakan untuk mematikan shuttlecock di lapangan lawan. Smash adalah salah satu pukulan yang paling agresif dan efektif dalam bulu tangkis untuk mencetak poin.</item>
+        <item>Drive adalah pukulan cepat dan datar yang digunakan untuk menyerang dan mempertahankan posisi di permainan ganda. Pukulan ini biasanya dilakukan dengan gerakan cepat dari pergelangan tangan untuk menjaga shuttlecock tetap rendah dan cepat.</item>
+        <item>Kemampuan bertahan yang baik sangat penting untuk menghadapi serangan lawan. Teknik bertahan termasuk blok untuk menghadapi smash, lob untuk mengembalikan shuttlecock ke bagian belakang lawan, dan clear defensif untuk mendapatkan kembali kontrol permainan.</item>
+        <item>Teknik langkah lanjutan membantu pemain bergerak lebih cepat dan efisien di seluruh lapangan. Ini termasuk langkah chasse, langkah split, dan gerakan crossover yang memungkinkan pemain untuk dengan cepat menyesuaikan posisi mereka untuk setiap pukulan.</item>
+        <item>Net kill adalah teknik memukul shuttlecock dengan cepat dan tajam di dekat net, biasanya dilakukan untuk mengakhiri rally dengan cepat. Teknik ini membutuhkan timing yang tepat dan kontrol yang baik.</item>
+        <item>Jump smash adalah variasi dari smash yang dilakukan dengan melompat untuk memberikan sudut pukulan yang lebih tajam dan kekuatan yang lebih besar. Teknik ini membutuhkan kekuatan kaki yang baik dan timing yang sempurna.</item>
+        <item>Pukulan tipuan digunakan untuk mengecoh lawan dengan gerakan yang terlihat seperti akan melakukan satu jenis pukulan, tetapi akhirnya melakukan pukulan lain. Contohnya termasuk slice dan reverse slice yang mengubah arah shuttlecock secara tiba-tiba.</item>
+        <item>Servis lanjutan mencakup teknik seperti flick serve dan low serve yang lebih sulit ditebak oleh lawan. Flick serve digunakan untuk mengirim shuttlecock tinggi dan jauh ke bagian belakang lapangan, sementara low serve digunakan untuk menjaga shuttlecock rendah di dekat net.</item>
+
+    </string-array>
+    <array name="course_photos">
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+        <item>@drawable/bg</item>
+    </array>
+    <string-array name="video">
+        <item>https://www.youtube.com/embed/80qKLl6k8pA?si=XSyc-N-1U9rKICIc</item>
+        <item>https://www.youtube.com/embed/We6OVQI9Mxo?si=7ODCES30ViSGnU89</item>
+        <item>https://www.youtube.com/embed/aIhzAeahQLA?si=fKLaeMjwXvVoDMh3</item>
+        <item>https://www.youtube.com/embed/9S3Qw8eH-wU?si=cRohkVm5BcARYo6x</item>
+        <item>https://www.youtube.com/embed/2ByjAixfocA?si=chTMfwW895-P-OcH</item>
+        <item>https://www.youtube.com/embed/3OZJCaP9aY4?si=s6JjZAJypW6x5XQp</item>
+        <item>https://www.youtube.com/embed/u--taRfMoTs?si=kaolXKKtUB7PJZYm</item>
+        <item>https://www.youtube.com/embed/DWsHRZFTqtk?si=K3SfRWGFJrnGEiqn</item>
+        <item>https://www.youtube.com/embed/i3_y0iUHMvQ?si=L5uZBTbS2iE69vYz</item>
+        <item>https://www.youtube.com/embed/B1AL910jsvA?si=Xjfwz0auktCQtM2V</item>
+        <item>https://www.youtube.com/embed/K-4a3RuI-18?si=15hi56d2iAFB1e0c</item>
+        <item>https://www.youtube.com/embed/BIZ6PJ8z5Uo?si=iT0wwC5r1ltrg9aL</item>
+        <item>https://www.youtube.com/embed/Seony5Owsb8?si=eCTRVUqa_jybx8Yn</item>
+        <item>https://www.youtube.com/embed/anX-DR1WhAs?si=zJh9uSXlLORfT2pW</item>
+        <item>https://www.youtube.com/embed/_HH6hVH6uJo?si=c27hhvm7rZdWIvKR</item>
+    </string-array>
+</resources>
